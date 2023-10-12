@@ -156,7 +156,15 @@ section {
   min-height: fit-content;
 }
 
+#experience {
+  height: 120vh;
+}
+
 #skills {
+  height: 80vh;
+}
+
+#hobbies {
   height: 60vh;
 }
 
